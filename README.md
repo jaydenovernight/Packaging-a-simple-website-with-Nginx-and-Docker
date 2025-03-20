@@ -57,7 +57,7 @@ Giải thích lệnh:
 2️⃣ -t my-nginx → Đặt tên cho Image là my-nginx.
 3️⃣ . → Chỉ định Dockerfile nằm trong thư mục hiện tại.
 
-⏳ Chờ một chút để Docker tạo image. Nếu thành công, bạn sẽ thấy dòng Successfully built
+⏳ Chờ một chút để Docker tạo image. Nếu thành công, bạn sẽ thấy dòng Finished
 
 
 # 5. Chạy Container từ Image.
