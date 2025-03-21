@@ -7,7 +7,7 @@ Hướng dẫn từng bước đóng gói và triển khai một trang web tĩnh
 
 ## 1. Tạo thư mục và tệp cần thiết
 
-Trước tiên, chúng ta cần tạo một thư mục chứa trang web và các file cần thiết:
+Trước tiên, cần tạo một thư mục chứa trang web và các file cần thiết (ở đây chỉ cần 1 file text html)
 
 ```bash
 mkdir my-web && cd my-web  # Tạo thư mục "my-web" và di chuyển vào đó
